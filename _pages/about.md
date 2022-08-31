@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hello! I’m a Postdoc in the School of ECEE at Arizona State University, hosted by [Lalitha Sankar](https://sankar.engineering.asu.edu/), [Oliver Kosut](https://sites.google.com/site/okosut/), and [Gautam Dasarathy](https://www.public.asu.edu/~gdasarat/). I currently work on some cool yet important estimation and control problems in power systems. In my free time, I listen to audiobooks on philosophical aspects of ethics and science; and think about my dense hair I had half a decade ago.
 
-I received a PhD in Mechanical Engineering from University of California, Riverside, under the supervision of [Fabio Pasqualetti](https://www.fabiopas.it/), where I worked on <a href="assets/pdf/raj_PHD_thesis2019.pdf">security of stochastic dynamical systems</a>. During my PhD studies, I took a bunch of courses in Statistics and earned a MS degree, but I remember only 51.32% of the material.
+I received a PhD in Mechanical Engineering from University of California, Riverside, under the supervision of [Fabio Pasqualetti](https://www.fabiopas.it/), where I worked on [security of stochastic dynamical systems]({{ site.url }}/assets/pdf/raj_PHD_thesis2019.pdf){:target="_blank"}. During my PhD studies, I took a bunch of courses in Statistics and earned a MS degree, but I remember only 51.32% of the material.
 
 
 My research identifies situations where <strong>estimation, identification, and control</strong> problems in large-scale interconnected network systems (e.g., power and structural systems) can be solved using efficient computational algorithms with theoretical guarantees. Topics of current interests:
