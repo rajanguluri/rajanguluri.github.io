@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm interested in how engineering systems work at the deepest levels, which steers me to do research in systems theory. My current research identifies situations where <strong>estimation, identification, and control</strong> problems in large-scale interconnected network systems (e.g., power and structural systems) can be solved using efficient computational algorithms with theoretical guarantees. Topics of current interests:
+I'm interested in how engineering systems work at the deepest levels, which steers me to do research in systems theory. My current research identifies situations where <strong>estimation, identification, and control</strong> problems in large-scale systems (e.g., power and mechanical systems) can be solved using efficient computational algorithms with theoretical guarantees. Topics of current interests:
 
 - estimation and control
    - sparse state and input estimation in dynamical systems
@@ -34,7 +34,7 @@ I'm interested in how engineering systems work at the deepest levels, which stee
    - topology identification in distribution grids
    - oscillations and cyber-attack mitigation in bulk systems
   
-**Academic roots**: I’m a Postdoc-ing in the School of ECEE at Arizona State University, where I work with [Lalitha Sankar](https://sankar.engineering.asu.edu/), [Oliver Kosut](https://sites.google.com/site/okosut/), and [Gautam Dasarathy](https://www.public.asu.edu/~gdasarat/). Before that I received a PhD in Mechanical Engineering from University of California, Riverside, where I worked on [security of stochastic dynamical systems]({{ site.url }}/assets/pdf/raj_PHD_thesis2019.pdf){:target="_blank"} under the supervision of [Fabio Pasqualetti](https://www.fabiopas.it/). During my grad studies, I took a bunch of courses in Statistics and earned an MS degree, but I remember only 51.32% of the course material. 
+**Academic roots**: I’m a Postdoc-ing in the School of ECEE at Arizona State University, where I work with [Lalitha Sankar](https://sankar.engineering.asu.edu/), [Oliver Kosut](https://sites.google.com/site/okosut/), and [Gautam Dasarathy](https://www.public.asu.edu/~gdasarat/). Before that I received a PhD in Mechanical Engineering from University of California, Riverside, where I worked on [security of stochastic dynamical systems]({{ site.url }}/assets/pdf/raj_PHD_thesis2019.pdf){:target="_blank"}. My thesis super was [Fabio Pasqualetti](https://www.fabiopas.it/). During my grad studies, I took a bunch of courses in Statistics and earned an MS degree, but I remember only 51.32% of the course material. 
 
 In my free time, I listen to audiobooks on philosophical aspects of ethics and science, remember my childhood memories, and think about the dense hair I had half a decade ago. If you like to collaborate, chat, or criticize my work, drop me a line via email.
 
