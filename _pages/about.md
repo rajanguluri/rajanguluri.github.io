@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm interested in how engineering systems work at the deepest levels, which steers me to do research in systems theory. My current research identifies situations where <strong>estimation, identification, and control</strong> problems in large-scale systems (e.g., power and mechanical systems) can be solved using efficient computational algorithms with theoretical guarantees. Specifically, 
+I'm interested in how engineering systems work at the deepest levels, which steers me to do research in systems theory. My current research identifies situations where <strong>estimation, identification, and control</strong> problems in large-scale systems (e.g., power and mechanical systems) can be solved using efficient computational algorithms with theoretical guarantees. Some specific situations:  
 
 - estimation and control
    - sparse state and input estimation in dynamical systems
