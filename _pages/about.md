@@ -2,7 +2,7 @@
 layout: about
 title: Basics
 permalink: /
-subtitle: <strong>Mathematical Engineer</strong> @ <a href='https://ecee.engineering.asu.edu/'>Arizona State University</a>. <em>Brews simple math from engineered systems
+subtitle: <strong>Postdoc</strong> @ <a href='https://ecee.engineering.asu.edu/'>Arizona State University</a>. <em>Brews simple math from engineered systems
 
 profile:
   align: right
@@ -21,12 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello! I’m a Postdoc in the School of ECEE at Arizona State University, hosted by [Lalitha Sankar](https://sankar.engineering.asu.edu/), [Oliver Kosut](https://sites.google.com/site/okosut/), and [Gautam Dasarathy](https://www.public.asu.edu/~gdasarat/). I currently work on some cool yet important estimation and control problems in power systems. In my free time, I listen to audiobooks on philosophical aspects of ethics and science; and think about my dense hair I had half a decade ago.
-
-I received a PhD in Mechanical Engineering from University of California, Riverside, under the supervision of [Fabio Pasqualetti](https://www.fabiopas.it/), where I worked on [security of stochastic dynamical systems]({{ site.url }}/assets/pdf/raj_PHD_thesis2019.pdf){:target="_blank"}. During my PhD studies, I took a bunch of courses in Statistics and earned a MS degree, but I remember only 51.32% of the material.
-
-
-My research identifies situations where <strong>estimation, identification, and control</strong> problems in large-scale interconnected network systems (e.g., power and structural systems) can be solved using efficient computational algorithms with theoretical guarantees. Topics of current interests:
+I'm interested in how engineering systems work at the deepest levels, which steers me to do research in systems theory. My current research identifies situations where <strong>estimation, identification, and control</strong> problems in large-scale interconnected network systems (e.g., power and structural systems) can be solved using efficient computational algorithms with theoretical guarantees. Topics of current interests:
 
 - estimation and control
    - sparse state and input estimation in dynamical systems
@@ -38,6 +33,10 @@ My research identifies situations where <strong>estimation, identification, and 
    - parameter estimation in low-inertia systems
    - topology identification in distribution grids
    - oscillations and cyber-attack mitigation in bulk systems
+  
+**Academic roots**: I’m a Postdoc-ing in the School of ECEE at Arizona State University, where I work with [Lalitha Sankar](https://sankar.engineering.asu.edu/), [Oliver Kosut](https://sites.google.com/site/okosut/), and [Gautam Dasarathy](https://www.public.asu.edu/~gdasarat/). Before that I received a PhD in Mechanical Engineering from University of California, Riverside, where I worked on [security of stochastic dynamical systems]({{ site.url }}/assets/pdf/raj_PHD_thesis2019.pdf){:target="_blank"} under the supervision of [Fabio Pasqualetti](https://www.fabiopas.it/). During my grad studies, I took a bunch of courses in Statistics and earned an MS degree, but I remember only 51.32% of the course material. 
+
+In my free time, I listen to audiobooks on philosophical aspects of ethics and science, remember my childhood memories, and think about the dense hair I had half a decade ago. If you like to collaborate, chat, or criticize my work, drop me a line via email.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
@@ -45,4 +44,4 @@ My research identifies situations where <strong>estimation, identification, and 
 
 
 
-If you like to collaborate, chat, or criticize my work, drop me a line via email.    
+    
