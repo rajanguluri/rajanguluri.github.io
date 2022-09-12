@@ -31,8 +31,8 @@ I'm interested in how engineering systems work at the deepest levels, which stee
    - attack design and detection in network systems
 - applications to power systems
    - parameter estimation in low-inertia systems
-   - topology identification in distribution grids
-   - oscillations and cyber-attack mitigation in bulk systems
+   - topology learning in distribution grids
+   - oscillations and cyber-attack detection/localization/mitigation in bulk systems
   
 **Academic roots**: I’m Postdoc-ing in the School of ECEE at Arizona State University, where I work with [Lalitha Sankar](https://sankar.engineering.asu.edu/), [Oliver Kosut](https://sites.google.com/site/okosut/), and [Gautam Dasarathy](https://www.public.asu.edu/~gdasarat/). I received a PhD in Mechanical Engineering from University of California, Riverside. My thesis ([security of stochastic dynamical systems]({{ site.url }}/assets/pdf/raj_PHD_thesis2019.pdf){:target="_blank"}) supervisor was [Fabio Pasqualetti](https://www.fabiopas.it/). At UC Riverside, I took a bunch of courses in Statistics and earned an MS degree, but I remember only 51.32% of the course material. 
 
