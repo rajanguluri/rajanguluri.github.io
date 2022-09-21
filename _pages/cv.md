@@ -9,7 +9,7 @@ cv_pdf: example_pdf.pdf
 ---
 <style>body {text-align: justify}</style>
 
-Dr. Anguluri is a mathematical engineer and currently a postdoc in the School of Electrical, Computer, and Energy Engineering at Arizona State University. His research interests and activities include estimation and stochastic control, statistical learning, data sciences, and optimization. His current work develops tractable mathematical models using the above fields to address inference problems in power engineering and cyber-physical systems security. He holds a Ph.D. degree in Mechanical Engineering, a Masters degree in Statistics from the University of California, Riverside, and a Bachelor’s degree in Electrical Engineering from the National Institute of Technology, Warangal, India. He is an optimist and believes that one day his work will be recognized!!
+Dr. Anguluri is a mathematical engineer and currently a postdoc in the School of Electrical, Computer, and Energy Engineering at Arizona State University. His research interests and activities include estimation and stochastic control, statistical learning, data sciences, and optimization. His current work develops tractable mathematical models using the above fields to address estimation and security problems in engineered and natural systems, including power grids, large-scale infrastructures, and brain networks. He holds a Ph.D. degree in Mechanical Engineering, a Masters degree in Statistics from the University of California, Riverside, and a Bachelor’s degree in Electrical Engineering from the National Institute of Technology, Warangal, India.
 
 My latest [academic CV]({{ site.url }}/assets/pdf/raj_anguluriCV2022.pdf){:target="_blank"}.
 
