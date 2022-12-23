@@ -9,9 +9,6 @@ profile:
   image: prof_pic_comp.png
   image_cicular: false # crops the image to make it circular
   address: >
-    <p><small>Goldwater Center (GWC) 429</small></p>
-    <p><small>650 E Tyler Mall</small></p>
-    <p><small>Tempe, Arizona 85282</small></p>
     <p><small><a href="mailto:rangulur@asu.edu[at]inrae[dot]fr">rangulur[at]asu[dot]edu</a>(<strong>he/him/his</strong>)</small></p>
     <p><small><a href="assets/pdf/raj_anguluriCV2022.pdf">Academic CV (08/2022)</a></small></p>
     <p><small><a href="https://scholar.google.com/citations?hl=en&user=GH4f3-sAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></small></p>
