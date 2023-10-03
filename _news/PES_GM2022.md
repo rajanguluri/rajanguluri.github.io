@@ -4,4 +4,4 @@ date: 2022-07-17 07:59:00-0400
 inline: true
 ---
 
-I presented a poster at the [PES General Meeting](https://pes-gm.org/) about [Complex-valued LASSO for Forced Oscillation Localization]({{ site.url }}/assets/pdf/papers/RA-NT-OK-LS-PESGM2022.pdf){:target="_blank"} :sparkles:
+I presented our work on [source localization using sub-space identification methods](https://ieeexplore.ieee.org/abstract/document/10252510) at [2023 IEEE CCTA]([https://pes-gm.org/](https://ieeecss.org/event/7th-ieee-conference-control-technology-and-applications)https://ieeecss.org/event/7th-ieee-conference-control-technology-and-applications) {:target="_blank"} :sparkles:
