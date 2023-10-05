@@ -230,7 +230,7 @@ scholar:
   order: descending, descending
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: papers.bib, raj-preprints.bib, raj-thesis.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
