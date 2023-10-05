@@ -230,7 +230,7 @@ scholar:
   order: descending, descending
 
   source: /_bibliography/
-  bibliography: papers.bib, raj-preprints.bib, raj-thesis.bib
+  bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -245,6 +245,10 @@ scholar:
   details_link: Details
 
   query: "@*"
+
+  badges: # Display different badges for your publications
+  altmetric_badge: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions_badge: false # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview]
