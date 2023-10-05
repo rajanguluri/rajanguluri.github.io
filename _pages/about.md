@@ -18,14 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm interested in how engineering systems work at the deepest levels, which steers me to do research in systems theory. My current research identifies situations where <strong>estimation, identification, and control</strong> problems in large-scale systems (e.g., power and mechanical systems) can be solved using data science methods with theoretical guarantees. Situations:  
+**Research Interests**: I like to know how engineering systems work at the basic level. This steers me to do research in systems theory and statistics. My current research identifies situations where data science methods can address <strong>estimation, identification, and control</strong> problems in large-scale systems (e.g., power and mechanical systems). Situations:  
 
 - estimation and control
-   - sparse state and input estimation in dynamical systems
-   - controllability of coarse dynamical systems
-   - structured system identification
-   - structure learning in graphical models
-   - attack design and detection in network systems
+   - sparse state and input estimation in linear dynamical systems
+   - structured system identification in network systems
+   - statistical inference in engineering graphical models
+   - secure networked cyber-physical systems
 - applications to power systems
    - parameter estimation in low-inertia systems
    - topology learning in distribution grids
@@ -33,7 +32,7 @@ I'm interested in how engineering systems work at the deepest levels, which stee
   
 **Academic roots**: I’m Postdoc-ing in the School of ECEE at Arizona State University, where I work with [Lalitha Sankar](https://sankar.engineering.asu.edu/), [Oliver Kosut](https://sites.google.com/site/okosut/), and [Gautam Dasarathy](https://www.public.asu.edu/~gdasarat/). I received a PhD in Mechanical Engineering from University of California, Riverside. My thesis ([security of stochastic dynamical systems]({{ site.url }}/assets/pdf/raj_PHD_thesis2019.pdf){:target="_blank"}) supervisor was [Fabio Pasqualetti](https://www.fabiopas.it/). At UC Riverside, I took a bunch of courses in Statistics and earned an MS degree, but I remember only 51.32% of the course material. 
 
-In my free time, I either listen to audiobooks on philosophical aspects of ethics and science or remember my early adolescent memories or think about the dense hair I had ages ago. If you like to chat, drop me a line via email.
+**Free time**: I listen to audiobooks on philosophical aspects of ethics and science; or muse about the stupid things I did as a teen (12-18 years); or amuse about the dense hair I had ages ago. In the hope of becoming an efficient writer, I read many books/articles on writing (fact: It took me ten attempts to write the prior sentence). If you like to chat about research or philosophy or writing or communication, drop me a line via email.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
