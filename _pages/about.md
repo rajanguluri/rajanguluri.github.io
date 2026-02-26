@@ -9,8 +9,7 @@ profile:
   image: prof_pic_comp.png
   image_cicular: false # crops the image to make it circular
   address: > 
-    <p><small><a href="mailto:rajangul@umbc.edu[at]inrae[dot]fr">rajangul[at]umbc[dot]edu</a>(<strong>he/him/his</strong>)</small></p>
-    <p><small><a href="assets/pdf/CV_Rajasekhar_Anguluri2023.pdf">Academic CV (09/2023)</a></small></p>
+    <p><small></a>(<strong>he/him/his</strong>)</small></p>
     <p><small><a href="https://scholar.google.com/citations?hl=en&user=GH4f3-sAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></small></p>
 
 news: true  # includes a list of news items
